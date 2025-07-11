@@ -1,4 +1,3 @@
-```markdown
 # CipherGuard
 
 ## Description
@@ -158,4 +157,3 @@ We welcome contributions to CipherGuard! To contribute, please follow these guid
 ## License
 
 CipherGuard is licensed under the MIT License. See the `LICENSE` file for more information.
-```
